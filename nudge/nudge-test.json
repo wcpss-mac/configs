@@ -57,13 +57,13 @@
 			"mainContentHeader": "Your device will restart during this update",
 			"mainContentNote": "Important Notes",
 			"mainContentSubHeader": "Updates can take around 30 minutes to complete",
-			"mainContentText": "A fully up-to-date device is required to ensure the device functions well and data is protected.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.",
+			"mainContentText": "A fully up-to-date device is required to ensure the device functions well and data is protected.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.\n\nIf you have questions, you may contact the WCPSS helpdesk at (800) 867-5309",
 			"mainHeader": "Your device requires a security update",
 			"oneDayDeferralButtonText": "One Day",
 			"oneHourDeferralButtonText": "One Hour",
 			"primaryQuitButtonText": "Later",
 			"secondaryQuitButtonText": "I understand",
-			"subHeader": "A friendly reminder from the IT team.\n\nIf you have questions, you may contact the WCPSS helpdesk at (800) 867-5309"
+			"subHeader": "A friendly reminder from the Wake County IT Team."
 		}]
 	}
 }
