@@ -17,7 +17,7 @@
 		"majorUpgradeAppPath": "/Applications/Install macOS Sequoia.app",
 		"requiredInstallationDate": "2024-10-31T23:59:00Z",
 		"requiredMinimumOSVersion": "15.0",
-		"targetedOSVersionsRule": "15"
+		"targetedOSVersionsRule": "14"
 	}],
 	"userExperience": {
 		"allowGracePeriods": false,
