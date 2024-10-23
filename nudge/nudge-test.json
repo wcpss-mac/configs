@@ -43,6 +43,8 @@
 		"fallbackLanguage": "en",
 		"forceFallbackLanguage": false,
 		"forceScreenShotIcon": false,
+		"iconDarkPath": "/Library/WCPSS/Media/Images/WCPSS_Logo.png",
+		"iconLightPath": "/Library/WCPSS/Media/Images/WCPSS_Logo.png",
 		"showDeferralCount": true,
 		"simpleMode": false,
 		"singleQuitButton": false,
