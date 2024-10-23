@@ -14,10 +14,10 @@
 		"terminateApplicationsOnLaunch": false
 	},
 	"osVersionRequirements": [{
-		"majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-		"requiredInstallationDate": "2023-04-15T23:59:00Z",
-		"requiredMinimumOSVersion": "13.99.99",
-		"targetedOSVersionsRule": "13"
+		"majorUpgradeAppPath": "/Applications/Install macOS Sequoia.app",
+		"requiredInstallationDate": "2024-10-31T23:59:00Z",
+		"requiredMinimumOSVersion": "14.99.99",
+		"targetedOSVersionsRule": "14"
 	}],
 	"userExperience": {
 		"allowGracePeriods": false,
@@ -55,7 +55,7 @@
 			"mainContentHeader": "Your device will restart during this update",
 			"mainContentNote": "Important Notes",
 			"mainContentSubHeader": "Updates can take around 30 minutes to complete",
-			"mainContentText": "A fully up-to-date device is required to ensure the device functions well and data is protected.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.",
+			"mainContentText": "A fully up-to-date device is required to ensure the device functions well and data is protected.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.\n\nIf you have questions, you may contact the WCPSS helpdesk at (800) 867-5309",
 			"mainHeader": "Your device requires a security update",
 			"oneDayDeferralButtonText": "One Day",
 			"oneHourDeferralButtonText": "One Hour",
