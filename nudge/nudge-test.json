@@ -16,7 +16,7 @@
 	"osVersionRequirements": [{
 		"majorUpgradeAppPath": "/Applications/Install macOS Sequoia.app",
 		"requiredInstallationDate": "2024-10-31T23:59:00Z",
-		"requiredMinimumOSVersion": "14.99.99",
+		"requiredMinimumOSVersion": "14.6",
 		"targetedOSVersionsRule": "14"
 	}],
 	"userExperience": {
